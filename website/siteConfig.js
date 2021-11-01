@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'daniel-stanton-814237151',
-        twitter: 'N/A',
+        twitter: 'dmstanto',
         github: 'dmstanto',
     },
 
